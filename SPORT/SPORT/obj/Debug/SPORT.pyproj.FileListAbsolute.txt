@@ -1,0 +1,12 @@
+C:\Users\casiano.j\Desktop\programing\SPORT\SPORT\bin\Debug\SPORT.exe.config
+C:\Users\casiano.j\Desktop\programing\SPORT\SPORT\bin\Debug\SPORT.exe
+C:\Users\casiano.j\Desktop\programing\SPORT\SPORT\bin\Debug\SPORT.dll
+C:\Users\casiano.j\Desktop\programing\SPORT\SPORT\bin\Debug\IronPython.dll
+C:\Users\casiano.j\Desktop\programing\SPORT\SPORT\bin\Debug\IronPython.Modules.dll
+C:\Users\casiano.j\Desktop\programing\SPORT\SPORT\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\casiano.j\Desktop\programing\SPORT\SPORT\bin\Debug\Microsoft.Scripting.dll
+C:\Users\casiano.j\Desktop\programing\SPORT\SPORT\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\casiano.j\Desktop\programing\SPORT\SPORT\obj\Debug\SPORT.pyprojResolveAssemblyReference.cache
+C:\Users\casiano.j\Desktop\programing\SPORT\SPORT\obj\Debug\SPORT.MainForm.resources
+C:\Users\casiano.j\Desktop\programing\SPORT\SPORT\obj\Debug\SPORT.pyproj.GenerateResource.Cache
+C:\Users\casiano.j\Desktop\programing\SPORT\SPORT\obj\Debug\SPORT.exe
