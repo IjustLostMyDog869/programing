@@ -1,0 +1,12 @@
+C:\Users\casiano.j\Desktop\programing\number\number\bin\Debug\number.exe.config
+C:\Users\casiano.j\Desktop\programing\number\number\bin\Debug\number.exe
+C:\Users\casiano.j\Desktop\programing\number\number\bin\Debug\number.dll
+C:\Users\casiano.j\Desktop\programing\number\number\bin\Debug\IronPython.dll
+C:\Users\casiano.j\Desktop\programing\number\number\bin\Debug\IronPython.Modules.dll
+C:\Users\casiano.j\Desktop\programing\number\number\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\casiano.j\Desktop\programing\number\number\bin\Debug\Microsoft.Scripting.dll
+C:\Users\casiano.j\Desktop\programing\number\number\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\casiano.j\Desktop\programing\number\number\obj\Debug\number.pyprojResolveAssemblyReference.cache
+C:\Users\casiano.j\Desktop\programing\number\number\obj\Debug\number.MainForm.resources
+C:\Users\casiano.j\Desktop\programing\number\number\obj\Debug\number.pyproj.GenerateResource.Cache
+C:\Users\casiano.j\Desktop\programing\number\number\obj\Debug\number.exe
