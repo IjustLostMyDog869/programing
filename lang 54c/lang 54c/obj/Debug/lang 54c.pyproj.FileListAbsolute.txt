@@ -1,0 +1,10 @@
+C:\Users\casiano.j\Desktop\programing\lang 54c\lang 54c\bin\Debug\lang 54c.exe.config
+C:\Users\casiano.j\Desktop\programing\lang 54c\lang 54c\bin\Debug\lang 54c.exe
+C:\Users\casiano.j\Desktop\programing\lang 54c\lang 54c\bin\Debug\lang 54c.dll
+C:\Users\casiano.j\Desktop\programing\lang 54c\lang 54c\bin\Debug\IronPython.dll
+C:\Users\casiano.j\Desktop\programing\lang 54c\lang 54c\bin\Debug\IronPython.Modules.dll
+C:\Users\casiano.j\Desktop\programing\lang 54c\lang 54c\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\casiano.j\Desktop\programing\lang 54c\lang 54c\bin\Debug\Microsoft.Scripting.dll
+C:\Users\casiano.j\Desktop\programing\lang 54c\lang 54c\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\casiano.j\Desktop\programing\lang 54c\lang 54c\obj\Debug\lang 54c.pyprojResolveAssemblyReference.cache
+C:\Users\casiano.j\Desktop\programing\lang 54c\lang 54c\obj\Debug\lang 54c.exe

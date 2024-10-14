@@ -1,0 +1,10 @@
+C:\Users\casiano.j\Desktop\programing\lp4-1\lp4-1\bin\Debug\lp4-1.exe.config
+C:\Users\casiano.j\Desktop\programing\lp4-1\lp4-1\bin\Debug\lp4-1.exe
+C:\Users\casiano.j\Desktop\programing\lp4-1\lp4-1\bin\Debug\lp4-1.dll
+C:\Users\casiano.j\Desktop\programing\lp4-1\lp4-1\bin\Debug\IronPython.dll
+C:\Users\casiano.j\Desktop\programing\lp4-1\lp4-1\bin\Debug\IronPython.Modules.dll
+C:\Users\casiano.j\Desktop\programing\lp4-1\lp4-1\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\casiano.j\Desktop\programing\lp4-1\lp4-1\bin\Debug\Microsoft.Scripting.dll
+C:\Users\casiano.j\Desktop\programing\lp4-1\lp4-1\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\casiano.j\Desktop\programing\lp4-1\lp4-1\obj\Debug\lp4-1.pyprojResolveAssemblyReference.cache
+C:\Users\casiano.j\Desktop\programing\lp4-1\lp4-1\obj\Debug\lp4-1.exe
