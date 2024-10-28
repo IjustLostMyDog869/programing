@@ -1,0 +1,10 @@
+C:\Users\casiano.j\Desktop\programing\LP4 - 3\LP4 - 3\bin\Debug\LP4 - 3.exe.config
+C:\Users\casiano.j\Desktop\programing\LP4 - 3\LP4 - 3\bin\Debug\LP4 - 3.exe
+C:\Users\casiano.j\Desktop\programing\LP4 - 3\LP4 - 3\bin\Debug\LP4 - 3.dll
+C:\Users\casiano.j\Desktop\programing\LP4 - 3\LP4 - 3\bin\Debug\IronPython.dll
+C:\Users\casiano.j\Desktop\programing\LP4 - 3\LP4 - 3\bin\Debug\IronPython.Modules.dll
+C:\Users\casiano.j\Desktop\programing\LP4 - 3\LP4 - 3\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\casiano.j\Desktop\programing\LP4 - 3\LP4 - 3\bin\Debug\Microsoft.Scripting.dll
+C:\Users\casiano.j\Desktop\programing\LP4 - 3\LP4 - 3\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\casiano.j\Desktop\programing\LP4 - 3\LP4 - 3\obj\Debug\LP4 - 3.pyprojResolveAssemblyReference.cache
+C:\Users\casiano.j\Desktop\programing\LP4 - 3\LP4 - 3\obj\Debug\LP4 - 3.exe

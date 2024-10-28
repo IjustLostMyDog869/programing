@@ -1,0 +1,10 @@
+C:\Users\casiano.j\Desktop\programing\Fruitless loopness\Fruitless loopness\bin\Debug\Fruitless loopness.exe.config
+C:\Users\casiano.j\Desktop\programing\Fruitless loopness\Fruitless loopness\bin\Debug\Fruitless loopness.exe
+C:\Users\casiano.j\Desktop\programing\Fruitless loopness\Fruitless loopness\bin\Debug\Fruitless loopness.dll
+C:\Users\casiano.j\Desktop\programing\Fruitless loopness\Fruitless loopness\bin\Debug\IronPython.dll
+C:\Users\casiano.j\Desktop\programing\Fruitless loopness\Fruitless loopness\bin\Debug\IronPython.Modules.dll
+C:\Users\casiano.j\Desktop\programing\Fruitless loopness\Fruitless loopness\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\casiano.j\Desktop\programing\Fruitless loopness\Fruitless loopness\bin\Debug\Microsoft.Scripting.dll
+C:\Users\casiano.j\Desktop\programing\Fruitless loopness\Fruitless loopness\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\casiano.j\Desktop\programing\Fruitless loopness\Fruitless loopness\obj\Debug\Fruitless loopness.pyprojResolveAssemblyReference.cache
+C:\Users\casiano.j\Desktop\programing\Fruitless loopness\Fruitless loopness\obj\Debug\Fruitless loopness.exe
