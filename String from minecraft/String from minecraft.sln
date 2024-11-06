@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FD48973F-F585-4F70-812B-4D0503B36CE9}") = "String from minecraft", "String from minecraft.pyproj", "{046FFB28-E7A8-478A-A77C-355C9E9B2F03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{046FFB28-E7A8-478A-A77C-355C9E9B2F03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{046FFB28-E7A8-478A-A77C-355C9E9B2F03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{046FFB28-E7A8-478A-A77C-355C9E9B2F03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{046FFB28-E7A8-478A-A77C-355C9E9B2F03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

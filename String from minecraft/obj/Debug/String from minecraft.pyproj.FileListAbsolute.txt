@@ -1,0 +1,10 @@
+C:\Users\casiano.j\Desktop\programing\String from minecraft\obj\Debug\String from minecraft.pyprojResolveAssemblyReference.cache
+C:\Users\casiano.j\Desktop\programing\String from minecraft\bin\Debug\String from minecraft.exe.config
+C:\Users\casiano.j\Desktop\programing\String from minecraft\bin\Debug\String from minecraft.exe
+C:\Users\casiano.j\Desktop\programing\String from minecraft\bin\Debug\String from minecraft.dll
+C:\Users\casiano.j\Desktop\programing\String from minecraft\bin\Debug\IronPython.dll
+C:\Users\casiano.j\Desktop\programing\String from minecraft\bin\Debug\IronPython.Modules.dll
+C:\Users\casiano.j\Desktop\programing\String from minecraft\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\casiano.j\Desktop\programing\String from minecraft\bin\Debug\Microsoft.Scripting.dll
+C:\Users\casiano.j\Desktop\programing\String from minecraft\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\casiano.j\Desktop\programing\String from minecraft\obj\Debug\String from minecraft.exe
