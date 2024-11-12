@@ -1,0 +1,10 @@
+C:\Users\casiano.j\Desktop\programing\dictionariesandtuples\bin\Debug\dictionariesandtuples.exe.config
+C:\Users\casiano.j\Desktop\programing\dictionariesandtuples\bin\Debug\dictionariesandtuples.exe
+C:\Users\casiano.j\Desktop\programing\dictionariesandtuples\bin\Debug\dictionariesandtuples.dll
+C:\Users\casiano.j\Desktop\programing\dictionariesandtuples\bin\Debug\IronPython.dll
+C:\Users\casiano.j\Desktop\programing\dictionariesandtuples\bin\Debug\IronPython.Modules.dll
+C:\Users\casiano.j\Desktop\programing\dictionariesandtuples\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\casiano.j\Desktop\programing\dictionariesandtuples\bin\Debug\Microsoft.Scripting.dll
+C:\Users\casiano.j\Desktop\programing\dictionariesandtuples\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\casiano.j\Desktop\programing\dictionariesandtuples\obj\Debug\dictionariesandtuples.pyprojResolveAssemblyReference.cache
+C:\Users\casiano.j\Desktop\programing\dictionariesandtuples\obj\Debug\dictionariesandtuples.exe
