@@ -1,0 +1,12 @@
+C:\Users\casiano.j\Desktop\programing\lang162h\obj\Debug\lang162h.pyprojResolveAssemblyReference.cache
+C:\Users\casiano.j\Desktop\programing\lang162h\obj\Debug\lang162h.MainForm.resources
+C:\Users\casiano.j\Desktop\programing\lang162h\obj\Debug\lang162h.pyproj.GenerateResource.Cache
+C:\Users\casiano.j\Desktop\programing\lang162h\bin\Debug\lang162h.exe.config
+C:\Users\casiano.j\Desktop\programing\lang162h\bin\Debug\lang162h.exe
+C:\Users\casiano.j\Desktop\programing\lang162h\bin\Debug\lang162h.dll
+C:\Users\casiano.j\Desktop\programing\lang162h\bin\Debug\IronPython.dll
+C:\Users\casiano.j\Desktop\programing\lang162h\bin\Debug\IronPython.Modules.dll
+C:\Users\casiano.j\Desktop\programing\lang162h\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\casiano.j\Desktop\programing\lang162h\bin\Debug\Microsoft.Scripting.dll
+C:\Users\casiano.j\Desktop\programing\lang162h\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\casiano.j\Desktop\programing\lang162h\obj\Debug\lang162h.exe

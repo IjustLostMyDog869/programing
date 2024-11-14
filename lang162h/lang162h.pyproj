@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
   <PropertyGroup>
-    <ProjectGuid>{F8B071F2-B73F-41D4-863A-EDBBF2491DB1}</ProjectGuid>
+    <ProjectGuid>{77FF234F-62A6-4A87-8CD3-7939FE0E0D88}</ProjectGuid>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <RootNamespace>lang122b</RootNamespace>
-    <AssemblyName>lang122b</AssemblyName>
+    <RootNamespace>lang162h</RootNamespace>
+    <AssemblyName>lang162h</AssemblyName>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
     <PlatformTarget>x86</PlatformTarget>
