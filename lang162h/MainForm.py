@@ -20,6 +20,8 @@ class MainForm(Form):
 					self._label4 = System.Windows.Forms.Label()
 					self._label5 = System.Windows.Forms.Label()
 					self._label6 = System.Windows.Forms.Label()
+					self._label7 = System.Windows.Forms.Label()
+					self._label8 = System.Windows.Forms.Label()
 					self.SuspendLayout()
 					# 
 					# label1
@@ -80,7 +82,7 @@ class MainForm(Form):
 					self._button2.BackColor = System.Drawing.Color.Black
 					self._button2.Font = System.Drawing.Font("Microsoft YaHei", 12, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0)
 					self._button2.ForeColor = System.Drawing.Color.FromArgb(192, 255, 192)
-					self._button2.Location = System.Drawing.Point(214, 155)
+					self._button2.Location = System.Drawing.Point(199, 155)
 					self._button2.Name = "button2"
 					self._button2.Size = System.Drawing.Size(131, 50)
 					self._button2.TabIndex = 5
@@ -93,34 +95,27 @@ class MainForm(Form):
 					self._button3.BackColor = System.Drawing.Color.Black
 					self._button3.Font = System.Drawing.Font("Microsoft YaHei", 12, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0)
 					self._button3.ForeColor = System.Drawing.Color.FromArgb(192, 255, 192)
-					self._button3.Location = System.Drawing.Point(403, 155)
+					self._button3.Location = System.Drawing.Point(363, 147)
 					self._button3.Name = "button3"
-					self._button3.Size = System.Drawing.Size(131, 50)
+					self._button3.Size = System.Drawing.Size(196, 66)
 					self._button3.TabIndex = 6
-					self._button3.Text = "Exit"
+					self._button3.Text = "WAT DoES tHis doOO"
 					self._button3.UseVisualStyleBackColor = False
 					self._button3.Click += self.Button3Click
 					# 
 					# label3
 					# 
-					self._label3.Font = System.Drawing.Font("Microsoft Tai Le", 12, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0)
-					self._label3.ForeColor = System.Drawing.Color.FromArgb(128, 255, 128)
-					self._label3.Location = System.Drawing.Point(12, 53)
+					self._label3.Location = System.Drawing.Point(0, 0)
 					self._label3.Name = "label3"
-					self._label3.Size = System.Drawing.Size(230, 99)
-					self._label3.TabIndex = 7
-					self._label3.Text = "permutations????"
-					self._label3.Click += self.Label3Click
+					self._label3.Size = System.Drawing.Size(100, 23)
+					self._label3.TabIndex = 0
 					# 
 					# label4
 					# 
-					self._label4.Font = System.Drawing.Font("Microsoft Tai Le", 12, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0)
-					self._label4.ForeColor = System.Drawing.Color.FromArgb(128, 255, 128)
-					self._label4.Location = System.Drawing.Point(12, 98)
+					self._label4.Location = System.Drawing.Point(0, 0)
 					self._label4.Name = "label4"
-					self._label4.Size = System.Drawing.Size(230, 40)
-					self._label4.TabIndex = 8
-					self._label4.Text = "people standing"
+					self._label4.Size = System.Drawing.Size(100, 23)
+					self._label4.TabIndex = 0
 					# 
 					# label5
 					# 
@@ -144,14 +139,36 @@ class MainForm(Form):
 					self._label6.TabIndex = 10
 					self._label6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
 					# 
+					# label7
+					# 
+					self._label7.Font = System.Drawing.Font("Microsoft JhengHei", 9.75, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
+					self._label7.ForeColor = System.Drawing.Color.FromArgb(192, 255, 192)
+					self._label7.Location = System.Drawing.Point(23, 51)
+					self._label7.Name = "label7"
+					self._label7.Size = System.Drawing.Size(131, 38)
+					self._label7.TabIndex = 11
+					self._label7.Text = "Guests Standing"
+					self._label7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+					# 
+					# label8
+					# 
+					self._label8.Font = System.Drawing.Font("Microsoft JhengHei", 9.75, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
+					self._label8.ForeColor = System.Drawing.Color.FromArgb(192, 255, 192)
+					self._label8.Location = System.Drawing.Point(23, 102)
+					self._label8.Name = "label8"
+					self._label8.Size = System.Drawing.Size(131, 36)
+					self._label8.TabIndex = 12
+					self._label8.Text = "permutations ????"
+					self._label8.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+					# 
 					# MainForm
 					# 
 					self.BackColor = System.Drawing.Color.FromArgb(64, 64, 64)
 					self.ClientSize = System.Drawing.Size(571, 223)
+					self.Controls.Add(self._label8)
+					self.Controls.Add(self._label7)
 					self.Controls.Add(self._label6)
 					self.Controls.Add(self._label5)
-					self.Controls.Add(self._label4)
-					self.Controls.Add(self._label3)
 					self.Controls.Add(self._button3)
 					self.Controls.Add(self._button2)
 					self.Controls.Add(self._button1)
@@ -174,7 +191,7 @@ class MainForm(Form):
             Guests = (Guests - 1)
             Seats = Seats - 1
         self._label5.Text = str(6*5*4*3)    
-        self._label6.Text = str(Guests-Seats)
+        self._label6.Text = str(Guests-seats)
         
 
     def Button2Click(self, sender, e):

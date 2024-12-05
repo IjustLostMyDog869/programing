@@ -1,0 +1,12 @@
+C:\Users\casiano.j\Desktop\programing\GAMBLING(HAPPY FACE)\obj\Debug\GAMBLING(HAPPY FACE).pyprojResolveAssemblyReference.cache
+C:\Users\casiano.j\Desktop\programing\GAMBLING(HAPPY FACE)\obj\Debug\GAMBLING_HAPPY_FACE_.MainForm.resources
+C:\Users\casiano.j\Desktop\programing\GAMBLING(HAPPY FACE)\obj\Debug\GAMBLING(HAPPY FACE).pyproj.GenerateResource.Cache
+C:\Users\casiano.j\Desktop\programing\GAMBLING(HAPPY FACE)\bin\Debug\GAMBLING(HAPPY FACE).exe.config
+C:\Users\casiano.j\Desktop\programing\GAMBLING(HAPPY FACE)\bin\Debug\GAMBLING(HAPPY FACE).exe
+C:\Users\casiano.j\Desktop\programing\GAMBLING(HAPPY FACE)\bin\Debug\GAMBLING(HAPPY FACE).dll
+C:\Users\casiano.j\Desktop\programing\GAMBLING(HAPPY FACE)\bin\Debug\IronPython.dll
+C:\Users\casiano.j\Desktop\programing\GAMBLING(HAPPY FACE)\bin\Debug\IronPython.Modules.dll
+C:\Users\casiano.j\Desktop\programing\GAMBLING(HAPPY FACE)\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\casiano.j\Desktop\programing\GAMBLING(HAPPY FACE)\bin\Debug\Microsoft.Scripting.dll
+C:\Users\casiano.j\Desktop\programing\GAMBLING(HAPPY FACE)\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\casiano.j\Desktop\programing\GAMBLING(HAPPY FACE)\obj\Debug\GAMBLING(HAPPY FACE).exe
